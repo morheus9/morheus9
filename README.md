@@ -2,11 +2,11 @@
 
   <div align="center">
   <h3><b>You Can Connect With Me On</b></h3>
+  <img https://avatars.githubusercontent.com/u/68808419?v=4 />
   </div>
-<p align="center">
 
 <a href="mailto:nodegopher@gmail.com" target="_blank">
   <img align="center" alt="Darshan R | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
 
-<p>
+
