@@ -1,6 +1,5 @@
-## Hi there 👋
+<!-- div width="100%" style="background:-webkit-linear-gradient(left, #ea6161, #ffc64d, #fffc4d, #52fa5a, #4dfcff, #c64dff);text-align: center;font-family: inherit;font-weight: bold;max-width: 782px;margin-bottom: 20px;align-content: center;padding: 10px;"> HI THERE !</div --><!-- TODO: when it will be possible on GitHub -->
 
-  <img src="https://streak-stats.demolab.com?    user=HyunCafe&theme=highcontrast&hide_border=true&border_radius=0&ring=2100FA&background=000000&fire=0079FA&currStreakNum=0079FA&dates=0079FA&sideNums=0079FA&currStreakLabel=0079FA&stroke=0079FA&sideLabels=0079FA" height="150" alt="streaks graph"  /><img src="https://github-readme-stats2-olive.vercel.app/api?username=HyunCafe&show_icons=true&title_color=0079fa&text_color=0079fa&iconcolor=0079fa&hide_border=true&bg_color=000000&border_radius=0&count_private=true&include_all_commits=true" height="150" alt="stats graph"  />
-</div> <br>
+<img width="782px" src="https://raw.githubusercontent.com/bilardi/bilardi/master/header.png" />
 
-[![HyunCafe's Github Activity Graph](https://github-readme-activity-graph-lemon-theta.vercel.app/graph?username=HyunCafe&custom_title=HyunCafe's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=bilardi&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilardi&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&card_width=382px" />
