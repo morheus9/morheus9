@@ -2,11 +2,11 @@
 
 <div>
   <div style="margin-right: 20px; display: inline;">
-    <p>You Can Connect With Me On</p>
+    <p style="margin-right: 20px; display: inline;">You Can Connect With Me On</p>
     <a href="mailto:nodegopher@gmail.com" target="_blank"><img align="center" alt="Darshan R | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" /></a>
   </div>
   <div>
-    <p>You Can Connect With Me On</p>
+    <p style="margin-right: 20px; display: inline;">You Can Connect With Me On</p>
       <a href="mailto:nodegopher@gmail.com" target="_blank"><img align="center" alt="Darshan R | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" /></a>
   </div>
 </div>
