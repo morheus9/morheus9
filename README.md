@@ -2,7 +2,7 @@
 
   <div align="center">
   <h3><b>You Can Connect With Me On</b></h3>
-  <img https://avatars.githubusercontent.com/u/68808419?v=4 />
+  <img src="https://avatars.githubusercontent.com/u/68808419?v=4" />
   </div>
 
 <a href="mailto:nodegopher@gmail.com" target="_blank">
