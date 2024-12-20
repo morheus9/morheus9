@@ -6,7 +6,7 @@
   <h3><b>You Can Connect With Me On</b></h3>
   </div>
 
-<div style="text-align: center;">
+<div style="align=center;">
     <a href="https://t.me/half_liter_frog">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
     </a>
