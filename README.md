@@ -8,6 +8,6 @@
         <p>You Can Connect With Me On</p>
     </div>
     <div style="flex: 1; text-align: center;">
-        <p><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/68808419?v=4" /></p>
+        <img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/68808419?v=4" />
     </div>
 </div>
