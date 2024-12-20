@@ -8,7 +8,7 @@
 
 <div align=center>
     <a href="https://t.me/half_liter_frog">
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram1.svg&logoColor=white" alt="Telegram">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
     </a>
     <a href="mailto:nodegopher@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
