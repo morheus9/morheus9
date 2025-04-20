@@ -11,5 +11,3 @@
         <img width="100" height="23px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
 </div>
-
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morheus9&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=6&theme=react&card_width=382px" />
