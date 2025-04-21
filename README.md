@@ -1,7 +1,8 @@
 <div align=center> 
-    <img height="140px" width="500px" src="https://github-readme-stats.vercel.app/api?username=morheus9&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=react&layout=compact" />
-    <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morheus9&layout=compact&theme=react&hide=html&hide_title=false&hide_border=true" />
+    <img height="140px" src="https://github-readme-stats.vercel.app/api?username=morheus9&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=react&layout=compact" />
 </div>
+    <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morheus9&layout=compact&theme=react&hide=html&hide_title=false&hide_border=true" />
+
 <div align=center>
     <h3><b>You can connect with me on:</b></h3>
     <a href="https://t.me/half_liter_frog">
