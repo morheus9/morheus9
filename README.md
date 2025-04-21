@@ -10,7 +10,7 @@
     <a href="mailto:nodegopher@gmail.com">
         <img width="100" height="24px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morheus9&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morheus9)](https://github.com/anuraghazra/github-readme-stats)
+ [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morheus9&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morheus9)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
