@@ -1,5 +1,5 @@
 <div align=center> 
-    <img height="140px" width="auto" src="https://github-readme-stats.vercel.app/api?username=morheus9&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=react" />
+    <img height="140px" width="auto" src="https://github-readme-stats.vercel.app/api?username=morheus9&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=react" />
     <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morheus9&layout=donut&hide=html&hide_title=false&hide_border=true&theme=react" />
     <h4><b>You can connect with me on:</b></h4>
     <a href="https://t.me/half_liter_frog">
