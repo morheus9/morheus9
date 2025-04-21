@@ -1,8 +1,8 @@
 <div align=center> 
     <img height="137px" src="https://github-readme-stats.vercel.app/api?username=morheus9&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=react" />
     <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morheus9&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=6&theme=react&card_width=382px" />
-![](https://raw.githubusercontent.com/morheus9/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/morheus9/github-stats/master/generated/overview.svg#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morheus9&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 <div align=center>
     <h3><b>You can connect with me on:</b></h3>
