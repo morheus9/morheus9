@@ -1,7 +1,7 @@
 <div align=center> 
     <img height="137px" src="https://github-readme-stats.vercel.app/api?username=morheus9&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=react" />
     <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morheus9&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=6&theme=react&card_width=382px" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donut&layout=pie&theme=react&langs_count=6&hide=html&hide_title=false&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morheus9&layout=donut&theme=react&langs_count=6&hide=html&hide_title=false&hide_border=true" />
 
 </div>
 <div align=center>
