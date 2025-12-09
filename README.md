@@ -1,3 +1,7 @@
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=morheus9&theme=tokyonight)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=morheus9&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=morheus9&theme=tokyonight)
 <div align=center> 
     <h4><b>You can connect with me on:</b></h4>
