@@ -1,4 +1,5 @@
 <div align=center> 
+    ![Top Languages](github-readme-stats.vercel.app)
     <h4><b>You can connect with me on:</b></h4>
     <a href="https://t.me/compact_furnace_unit">
         <img width="100" height="24px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
